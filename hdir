@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p $1/{Admin,Entregables,Evidencia/{Hallazgos,Escaneos/{Vulnerabilidad,Servicio,Web,'Enumeración AD'},Notas,OSINT,Inalámbrico,'Salida de logs','Archivos varios'},Reevaluación}
+mkdir -p $1/{Images,Admin,Entregables,Evidencia/{Hallazgos,Escaneos/{Vulnerabilidad,Servicio,Web,'Enumeración AD'},Notas,OSINT,Inalámbrico,'Salida de logs','Archivos varios'},Reevaluación}
